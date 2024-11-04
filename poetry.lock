@@ -1572,13 +1572,13 @@ crt = ["botocore[crt] (>=1.33.2,<2.0a.0)"]
 
 [[package]]
 name = "selenium"
-version = "4.24.0"
+version = "4.26.1"
 description = "Official Python bindings for Selenium WebDriver"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "selenium-4.24.0-py3-none-any.whl", hash = "sha256:42c23f60753d5415b261b236cecbd69bd4eb5271e1563915f546b443cb6b71c6"},
-    {file = "selenium-4.24.0.tar.gz", hash = "sha256:88281e5b5b90fe231868905d5ea745b9ee5e30db280b33498cc73fb0fa06d571"},
+    {file = "selenium-4.26.1-py3-none-any.whl", hash = "sha256:1db3f3a0cd5bb07624fa8a3905a6fdde1595a42185a0617077c361dc53d104fb"},
+    {file = "selenium-4.26.1.tar.gz", hash = "sha256:7640f3f08ae7f4e450f895678e8a10a55eb4e4ca18311ed675ecc4684b96b683"},
 ]
 
 [package.dependencies]
