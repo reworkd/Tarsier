@@ -18,7 +18,7 @@ azure-ai-vision-imageanalysis = "^1.0.0b2"
 
 [tool.poetry.group.dev.dependencies]
 mypy = "^1.10.0"
-ruff = ">=0.4.8,<0.7.0"
+ruff = ">=0.4.8,<0.9.0"
 bananalyzer = "0.10.8"
 
 
